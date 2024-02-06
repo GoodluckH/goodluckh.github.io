@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goodluckh.github.io/static/css/main.a5c975f8.css",
-    "main.js": "/goodluckh.github.io/static/js/main.57abde15.js",
+    "main.js": "/goodluckh.github.io/static/js/main.466d1f70.js",
     "static/js/592.59547960.chunk.js": "/goodluckh.github.io/static/js/592.59547960.chunk.js",
     "index.html": "/goodluckh.github.io/index.html",
     "main.a5c975f8.css.map": "/goodluckh.github.io/static/css/main.a5c975f8.css.map",
-    "main.57abde15.js.map": "/goodluckh.github.io/static/js/main.57abde15.js.map",
+    "main.466d1f70.js.map": "/goodluckh.github.io/static/js/main.466d1f70.js.map",
     "592.59547960.chunk.js.map": "/goodluckh.github.io/static/js/592.59547960.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c975f8.css",
-    "static/js/main.57abde15.js"
+    "static/js/main.466d1f70.js"
   ]
 }
