@@ -1,7 +1,7 @@
 {
   "name": "xipu-gh-pages",
   "version": "0.1.0",
-  "homepage": "https://goodluckh.github.io/goodluckh.github.io",
+  "homepage": "https://goodluckh.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
