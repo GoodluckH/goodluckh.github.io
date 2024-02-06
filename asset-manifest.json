@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/goodluckh.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/goodluckh.github.io/static/js/main.4dff0ede.js",
+    "static/js/592.59547960.chunk.js": "/goodluckh.github.io/static/js/592.59547960.chunk.js",
+    "static/media/logo.svg": "/goodluckh.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/goodluckh.github.io/index.html",
+    "main.f855e6bc.css.map": "/goodluckh.github.io/static/css/main.f855e6bc.css.map",
+    "main.4dff0ede.js.map": "/goodluckh.github.io/static/js/main.4dff0ede.js.map",
+    "592.59547960.chunk.js.map": "/goodluckh.github.io/static/js/592.59547960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.4dff0ede.js"
+  ]
+}
