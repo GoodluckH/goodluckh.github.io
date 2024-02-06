@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goodluckh.github.io/static/css/main.a5c975f8.css",
-    "main.js": "/goodluckh.github.io/static/js/main.466d1f70.js",
-    "static/js/592.59547960.chunk.js": "/goodluckh.github.io/static/js/592.59547960.chunk.js",
-    "index.html": "/goodluckh.github.io/index.html",
-    "main.a5c975f8.css.map": "/goodluckh.github.io/static/css/main.a5c975f8.css.map",
-    "main.466d1f70.js.map": "/goodluckh.github.io/static/js/main.466d1f70.js.map",
-    "592.59547960.chunk.js.map": "/goodluckh.github.io/static/js/592.59547960.chunk.js.map"
+    "main.css": "/static/css/main.a5c975f8.css",
+    "main.js": "/static/js/main.da88a807.js",
+    "static/js/592.59547960.chunk.js": "/static/js/592.59547960.chunk.js",
+    "index.html": "/index.html",
+    "main.a5c975f8.css.map": "/static/css/main.a5c975f8.css.map",
+    "main.da88a807.js.map": "/static/js/main.da88a807.js.map",
+    "592.59547960.chunk.js.map": "/static/js/592.59547960.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5c975f8.css",
-    "static/js/main.466d1f70.js"
+    "static/js/main.da88a807.js"
   ]
 }
