@@ -17,7 +17,7 @@ function App() {
                 >
                   Zhumadian
                 </a>
-                , a city in Henan, China{" "}
+                , a city in Henan, China
               </li>
               {/* <li>
           went to high school in{' '}
